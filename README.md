@@ -1,3 +1,6 @@
+<img width="32" height="28" alt="image" src="https://github.com/user-attachments/assets/fde0205c-08ce-455d-af20-acd43c9b01ff" />
+
+
 # 🎛 triple-mixer
 
 Advanced yet simple audio mixer for Linux (PipeWire).
